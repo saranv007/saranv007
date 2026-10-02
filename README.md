@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Saran V
 
-### 💻 Data Science · AI/ML · Full-Stack Development · Software Engineering
+### 💻 Data Science  · Full-Stack Development · Software Engineering
 
 <p>
   <em>
