@@ -1,76 +1,76 @@
-# 👋 Hi, I'm Saran
+<!-- 🚀 Advanced Professional GitHub Profile README -->
 
-### 💻 Computer Science Student | Data Science | AI | Full-Stack Developer
+<div align="center">
 
----
+# 👋 Hi, I'm Saran V
 
-## 🚀 About Me
+### 💻 Data Science · AI/ML · Full-Stack Development · Software Engineering
 
-I'm a Computer Science and Data Science student passionate about
-building practical software solutions using AI, data and modern
-web technologies.
+<p>
+  <em>
+    Building practical software, intelligent applications, and scalable web systems.
+  </em>
+</p>
 
-- 🎓 Computer Science & Mathematics
-- 📊 Data Science
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Full-Stack Development
-- 🚀 Building real-world projects
-- 🌱 Currently learning React, FastAPI and APIs
-- 🧠 Exploring AI agents, RAG and intelligent applications
+<br/>
 
----
+<a href="saranv21112007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/saranv007">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/saran-v-7060b1385">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🛠️ Technologies
+<br/><br/>
 
-### Languages
-- Python
-- JavaScript
-- C
-- SQL
+<img src="https://komarev.com/ghpvc/?username=saranv007&style=for-the-badge&color=blue" alt="Profile Views"/>
 
-### Frontend
-- React
-- HTML
-- CSS
-- JavaScript
-
-### Backend
-- FastAPI
-- Node.js
-- REST APIs
-
-### Database
-- PostgreSQL
-- Supabase
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Linux
+</div>
 
 ---
 
-## 🚀 Projects
+## 👨‍💻 About Me
 
-### 🤖 SanoAI
-AI-powered chat application.
+I'm **Saran V**, a Computer Science and Data Science student passionate about
+building practical software solutions using **AI, data, backend systems,
+and modern web technologies**.
 
-### ⏰ Arrive Alarm
-Smart alarm application based on arrival/location concepts.
+I enjoy turning ideas into working applications — from frontend interfaces
+and REST APIs to databases, authentication systems and AI-powered platforms.
 
-### 📈 MAXLITH
-AI-powered trading platform.
+- 🎓 Computer Science & Mathematics Student
+- 📊 Data Science & Machine Learning Enthusiast
+- 🤖 Exploring Artificial Intelligence & Generative AI
+- 🌐 Full-Stack Web Developer
+- ⚙️ Backend Development with FastAPI
+- ⚛️ Building modern interfaces with React
+- 🗄️ Working with SQL, PostgreSQL & Supabase
+- 🔌 Learning and building REST APIs
+- 🐧 Linux & Open Source Enthusiast
+- 🚀 Interested in scalable software architecture
+- 🧠 Continuously learning and building real-world projects
 
 ---
 
-## 📫 Connect With Me
+# 🧰 Technical Skills
 
-- 💼 LinkedIn: YOUR_LINKEDIN
-- 📧 Email: YOUR_EMAIL
-- 🌐 Portfolio: YOUR_WEBSITE
+## 💻 Programming Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css" />
+</p>
 
-⭐ Thanks for visiting my profile!
+### Core Knowledge
+
+```text
+React
+Python
+JavaScript
+C
+C++
+SQL
+HTML
+CSS
