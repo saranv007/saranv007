@@ -1,72 +1,61 @@
-<!-- 🚀 Advanced Professional GitHub Profile README -->
-
-<div align="center">
-
-# 👋 Hi, I'm Saran V
-
-### 💻 Data Science  · Full-Stack Development · Software Engineering
-
-<p>
-  <em>
-    Building practical software, intelligent applications, and scalable web systems.
-  </em>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" width="100%" alt="Saran V — Data Science, Full-Stack Development and Software Engineering">
+</picture>
 </p>
-
-<br/>
-
-<a href="saranv21112007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/saranv007">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/saran-v-7060b1385">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm **Saran V**, a Computer Science and Data Science student passionate about
-building practical software solutions using **AI, data, backend systems,
-and modern web technologies**.
-
-I enjoy turning ideas into working applications — from frontend interfaces
-and REST APIs to databases, authentication systems and AI-powered platforms.
+I'm **Saran V**, a Computer Science and Data Science student interested in building practical software using **AI, data, backend systems, and modern web technologies**.
 
 - 🎓 Computer Science & Mathematics Student
 - 📊 Data Science & Machine Learning Enthusiast
-- 🤖 Exploring Artificial Intelligence & Generative AI
-- 🌐 Full-Stack Web Developer
-- ⚙️ Backend Development with FastAPI
-- ⚛️ Building modern interfaces with React
-- 🗄️ Working with SQL, PostgreSQL & Supabase
-- 🔌 Learning and building REST APIs
-- 🐧 Linux & Open Source Enthusiast
-- 🚀 Interested in scalable software architecture
-- 🧠 Continuously learning and building real-world projects
+- 🤖 Artificial Intelligence & Generative AI
+- 🌐 Full-Stack Web Development
+- ⚙️ FastAPI & REST APIs
+- ⚛️ React & JavaScript
+- 🗄️ PostgreSQL & Supabase
+- 🐧 Linux & Open Source
+
+## 🧰 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css,react,fastapi,postgres,supabase,linux,git,github,vscode" />
+</p>
+
+## 🧠 Current Focus
+
+```text
+Data Science
+Machine Learning
+Artificial Intelligence
+Generative AI
+Full-Stack Development
+Backend Engineering
+REST APIs
+Database Systems
+Software Architecture
+Linux & Open Source
+```
+
+## 🚀 Development Philosophy
+
+> Learn → Build → Test → Improve → Ship
+
+I prefer learning technologies by building practical applications and experimenting with real-world software ideas.
+
+## 🔗 Connect
+
+- GitHub: https://github.com/saranv007
+- LinkedIn: https://www.linkedin.com/in/saran-v-7060b1385
+- Email: saranv21112007@gmail.com
 
 ---
 
-# 🧰 Technical Skills
-
-## 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css" />
+<p align="center">
+  <b>💡 Building. Learning. Improving.</b>
 </p>
-
-### Core Knowledge
-
-```text
-React
-Python
-JavaScript
-C
-C++
-SQL
-HTML
-CSS
