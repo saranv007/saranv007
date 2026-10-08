@@ -5,7 +5,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./dark.svg"
+    srcset="dark.svg"
   >
 
   <source
